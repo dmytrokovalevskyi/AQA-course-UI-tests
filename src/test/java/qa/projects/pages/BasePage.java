@@ -1,9 +1,9 @@
-package qa.projects;
+package qa.projects.pages;
 
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
-
 import static com.codeborne.selenide.Selenide.*;
+
 
 public class BasePage {
     public static String baseUrl = "https://rozetka.com.ua/ua/";
